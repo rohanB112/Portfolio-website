@@ -91,7 +91,7 @@ button{
 }
 
 #welcome{
-    padding: 0px 20px 20px 20px;
+    padding: 40px 20px 20px 20px;
 }
 
 .welcome-text{
@@ -105,7 +105,7 @@ button{
 .welcome-image{
     grid-column: 2/8;
     text-align: center;
-    padding: 30px 20px 20px 20px;
+    padding: 30px 15px 40px 15px;
 }
 
 #about{
